@@ -1,0 +1,8 @@
+.image-style{ 
+ position: absolute; 
+ bottom: 240rpx; 
+ right: 100rpx; 
+ width: 240rpx; 
+ height: 240rpx; 
+ z-index: 6; 
+} 

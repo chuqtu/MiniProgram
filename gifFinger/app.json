@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3385ff",
+    "navigationBarTitleText": "gif多触点案例",
+    "navigationBarTextStyle": "white"
+  }
+}

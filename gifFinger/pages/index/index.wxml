@@ -1,0 +1,4 @@
+<view>
+<image class='image-style' src="../../images/demo.gif" bindtap="thingClickEvent" style="width:{{thingWidth}}rpx;height:{{thingHeight}}rpx;bottom:{{thingBottom}}px;right:{{thingRight}}px;transform:rotate({{angle}}deg);" bindtouchstart='thingStartEvent' bindtouchmove="thingMoveEvent" bindlongpress="thingScaleEvent" bindtouchend='thingEndEvent'>  
+</image> 
+</view>
